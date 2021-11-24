@@ -70,4 +70,11 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
+.row {
+  border: solid;
+  border-width: 1px 1
+}
 
+.my-row {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(217, 216, 216));
+}
