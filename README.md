@@ -19,5 +19,5 @@ https://github.com/jkgdev8/Schedule-Planner-UCLA-Challenge-5
 
 # Web site link
 
-https://github.com/jkgdev8/Schedule-Planner-UCLA-Challenge-5
+ https://jkgdev8.github.io/Schedule-Planner-UCLA-Challenge-5/
 
